@@ -1,3 +1,0 @@
-local Holder = {}
-
-return Holder
