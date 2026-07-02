@@ -1,0 +1,3 @@
+local InventoryScreen = {}
+
+return InventoryScreen

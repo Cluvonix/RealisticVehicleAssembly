@@ -1,0 +1,3 @@
+local InventoryGrid = {}
+
+return InventoryGrid
